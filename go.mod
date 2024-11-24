@@ -1,4 +1,4 @@
-module github.com/StarGazer500/gdal
+module github.com/lukeroth/gdal
 
 go 1.15
 
